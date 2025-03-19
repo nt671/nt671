@@ -13,6 +13,11 @@
   <li>Preparing for the <strong>Cisco CCNA certification</strong> to deepen my networking expertise.</li>
 </ul>
 
+<h3>📝 <strong>What I've worked on:</strong></h3>
+<ul>
+<li><a href="https://github.com/nt671/academic-work">Academic Work (Policy Creation, Cybersecurity Capstone)</a>
+</ul>
+
 <h3>👯 <strong>I’m looking to collaborate on:</strong></h3>
 <ul>
   <li><strong>Open-source security projects</strong> that focus on threat hunting, vulnerability management, or incident response.</li>
