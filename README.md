@@ -52,11 +52,12 @@
 
 <h3>⚡ <strong>Fun Facts:</strong></h3>
 <ul>
-  <li>I called Japan home while studying Japanese at Kansai University, プロフィールへようこそ!</li>
+  <li>I called Japan home while studying Japanese at Kansai University in Osaka, プロフィールへようこそ!</li>
   <li>I enjoy building <strong>home labs</strong> where I simulate real-world security scenarios to sharpen my skills.</li>
   <li>I have been using computers and fiddling with tech since I was 4 (MS-DOS ftw!)!</li>
   <li>When I'm not diving into tech, you'll find me exploring <strong>different countries and cultures</strong> all over the world.</li>
   <li>I believe that learning is never-ending, and that learning continuously shapes who we are. </li>
+  <li>I love cooking and sampling cuisine from all over the world. </li>
 </ul>
 
 <hr>
