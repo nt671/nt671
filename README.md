@@ -51,10 +51,11 @@
 
 <h3>⚡ <strong>Fun fact:</strong></h3>
 <ul>
-  <li>I've made Japan my home, こんにちは!</li>
+  <li>I called Japan home while studying Japanese at Kansai University, こんにちは!</li>
   <li>I enjoy building <strong>home labs</strong> where I simulate real-world security scenarios to sharpen my skills.</li>
-  <li>I was born and raised on a small island in the middle of the Pacific Ocean where America's day begins!</li>
+  <li>I was born and raised on a small island in the middle of the Pacific Ocean (hint: it's where America's day begins)!</li>
   <li>When I'm not diving into tech, you'll find me exploring the <strong>great outdoors</strong> or working on creative side projects.</li>
+  <li>I believe that learning is never-ending, and that learning continuously shapes who we are. </li>
 </ul>
 
 <hr>
