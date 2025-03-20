@@ -54,7 +54,7 @@
   <li>I called Japan home while studying Japanese at Kansai University, プロフィールへようこそ!</li>
   <li>I enjoy building <strong>home labs</strong> where I simulate real-world security scenarios to sharpen my skills.</li>
   <li>I have been using computers and fiddling with tech since I was 4 (MS-DOS ftw!)!</li>
-  <li>When I'm not diving into tech, you'll find me exploring the <strong>great outdoors</strong> or working on creative side projects.</li>
+  <li>When I'm not diving into tech, you'll find me exploring <strong>different countries and cultures</strong> all over the world.</li>
   <li>I believe that learning is never-ending, and that learning continuously shapes who we are. </li>
 </ul>
 
