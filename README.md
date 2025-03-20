@@ -49,11 +49,11 @@
   <li>My experience with <strong>SOC analysis and threat investigations</strong>.</li>
 </ul>
 
-<h3>⚡ <strong>Fun fact:</strong></h3>
+<h3>⚡ <strong>Fun Facts:</strong></h3>
 <ul>
-  <li>I called Japan home while studying Japanese at Kansai University, こんにちは!</li>
+  <li>I called Japan home while studying Japanese at Kansai University, プロフィールへようこそ!</li>
   <li>I enjoy building <strong>home labs</strong> where I simulate real-world security scenarios to sharpen my skills.</li>
-  <li>I was born and raised on a small island in the middle of the Pacific Ocean (hint: it's where America's day begins)!</li>
+  <li>I have been using computers and fiddling with tech since I was 4 (MS-DOS ftw!)!</li>
   <li>When I'm not diving into tech, you'll find me exploring the <strong>great outdoors</strong> or working on creative side projects.</li>
   <li>I believe that learning is never-ending, and that learning continuously shapes who we are. </li>
 </ul>
