@@ -5,14 +5,6 @@
 <p>I'm an IT professional obsessed with practically all things tech (especially cybersecurity) and have worked in roles as a Database Administrator and Systems Administrator recently. I have a passion for learning and love to research, analyze, and find the best approach to solving problems. Having graduated recently with a BS in InfoSec and Cybersecurity, I've improved my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years in IT combined with my education in both IT and cybersecurity, I'm driven to create solutions that strengthen security and ultimately improve an organization's overall operational efficiency.</p>
 
 <hr>
-
-<h3>🔭 <strong>I’m currently working on:</strong></h3>
-<ul>
-  <li>Enhancing my <strong>SIEM, IDS/IPS, and threat detection</strong> skills through hands-on labs and projects.</li>
-  <li>Expanding my <strong>Python scripting</strong> capabilities for security automation.</li>
-  <li>Preparing for the <strong>Cisco CCNA certification</strong> to deepen my networking expertise.</li>
-</ul>
-
 <h3>📝 <strong>What I've worked on:</strong></h3>
 <ul>
 <li><a href="https://github.com/nt671/academic-work">Academic Work</a>
@@ -21,6 +13,15 @@
 <li><a href="">Google Cybersecurity Certificate Write-ups (coming soon!)</a></li>
 <li><a href="">Python Scripts (coming soon!)</a></li>
 <li><a href="">CompTIA Security+ Certification (coming soon!)</a></li>
+</ul>  
+
+<h3>🔭 <strong>I’m currently working on:</strong></h3>
+<ul>
+  <li>Enhancing my <strong>SIEM, IDS/IPS, and threat detection</strong> skills through hands-on labs and projects.</li>
+  <li>Expanding my <strong>Python scripting</strong> capabilities for security automation.</li>
+  <li>Preparing for the <strong>Cisco CCNA certification</strong> to deepen my networking expertise.</li>
+</ul>
+
   
 </ul>
 
