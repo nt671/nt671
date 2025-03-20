@@ -16,10 +16,10 @@
 <h3>📝 <strong>What I've worked on:</strong></h3>
 <ul>
 <li><a href="https://github.com/nt671/academic-work">Academic Work</a>
+<li><a href="https://github.com/nt671/letsdefend">letsdefend.io SOC Analyst Training</a></li>
 <li><a href="">Home Lab Documentation (coming soon!)</a></li>
 <li><a href="">Google Cybersecurity Certificate Write-ups (coming soon!)</a></li>
 <li><a href="">Python Scripts (coming soon!)</a></li>
-<li><a href="https://github.com/nt671/letsdefend">letsdefend.io SOC Analyst Training</a></li>
 <li><a href="">CompTIA Security+ Certification (coming soon!)</a></li>
   
 </ul>
