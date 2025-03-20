@@ -2,7 +2,7 @@
 
 <h2>🤓 Tech-Geek | Cybersecurity Enthusiast | Database & Systems Administrator </h2>
 
-<p>I'm an IT professional obsessed with practically all things tech (especially cybersecurity) and have worked roles in both database and systems administration. I have a passion for learning and love to research, analyze, and find the best approach to solving problems. Having graduated recently with a BS in InfoSec and Cybersecurity, I've improved my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years in IT combined with my education in both IT and cybersecurity, I'm driven to create solutions that strengthen security and ultimately improve an organization's overall operational efficiency.</p>
+<p>I'm an IT professional obsessed with practically all things tech (especially cybersecurity) and have worked roles in both database and systems administration. I have a passion for learning and love to research, analyze, and find the best approach to solving problems. Having graduated recently with a BS in InfoSec and Cybersecurity, I've improved my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years working in the industry along with my education in IT and cybersecurity, I'm driven to create solutions that strengthen security and ultimately improve an organization's overall operational efficiency.</p>
 
 <hr>
 <h3>📝 <strong>What I've worked on:</strong></h3>
