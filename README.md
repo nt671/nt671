@@ -1,8 +1,8 @@
-<h1>👋 Hi! I'm Nolan!</h1>
+<h1>👋 Hi! I'm Nolan! Thanks for stopping by! </h1>
 
-<h2>🌐 IT Security Professional | Cybersecurity Enthusiast | Database & Systems Administrator | Tech-Geek </h2>
+<h2>🤓 Tech-Geek | Cybersecurity Enthusiast | Database & Systems Administrator </h2>
 
-<p>I'm an experienced IT professional holding roles as both a Database Administrator and Systems Administrator. I have a passion for practically all things tech and have recently increased my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years in IT along with my educational background in cybersecurity, I'm driven to create solutions that strengthen security an organization's security posture and ultimately improve its overall operational efficiency.</p>
+<p>I'm an IT professional in love with practically all things tech (especially cybersecurity) and have worked in roles as a Database Administrator and Systems Administrator recently. I have a passion for learning and love to research, analyze, and find the best approach to solving problems. Having graduated recently with a BS in InfoSec and Cybersecurity, I've improved my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years in IT combined with my education in both IT and cybersecurity, I'm driven to create solutions that strengthen security and ultimately improve an organization's overall operational efficiency.</p>
 
 <hr>
 
@@ -15,12 +15,18 @@
 
 <h3>📝 <strong>What I've worked on:</strong></h3>
 <ul>
-<li><a href="https://github.com/nt671/academic-work">Academic Work (Policy Creation, Cybersecurity Capstone)</a>
+<li><a href="https://github.com/nt671/academic-work">Academic Work</a>
+<li><a href="">Home Lab Documentation (coming soon!)</a></li>
+<li><a href="">Google Cybersecurity Certificate Write-ups (coming soon!)</a></li>
+<li><a href="">Python Scripts (coming soon!)</a></li>
+<li><a href="">letsdefend.io SOC Analyst Training (coming soon!)</a></li>
+<li><a href="">CompTIA Security+ Certification (coming soon!)</a></li>
+  
 </ul>
 
 <h3>👯 <strong>I’m looking to collaborate on:</strong></h3>
 <ul>
-  <li><strong>Open-source security projects</strong> that focus on threat hunting, vulnerability management, or incident response.</li>
+  <li><strong>Open-source security projects</strong> that focus on vulnerability management and/or incident response.</li>
   <li><strong>Automation scripts</strong> for security monitoring and remediation.</li>
 </ul>
 
@@ -45,7 +51,9 @@
 
 <h3>⚡ <strong>Fun fact:</strong></h3>
 <ul>
+  <li>I've made Japan my home, こんにちは!</li>
   <li>I enjoy building <strong>home labs</strong> where I simulate real-world security scenarios to sharpen my skills.</li>
+  <li>I was born and raised on a small island in the middle of the Pacific Ocean where America's day begins!</li>
   <li>When I'm not diving into tech, you'll find me exploring the <strong>great outdoors</strong> or working on creative side projects.</li>
 </ul>
 
