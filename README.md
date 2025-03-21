@@ -7,7 +7,7 @@
 <hr>
 <h3>📝 <strong>What I've worked on:</strong></h3>
 <ul>
-<li><a href="https://github.com/nt671/academic-work">Academic Work (labs, policy creation, Python, JavaScript, etc.)</a>
+<li><a href="https://github.com/nt671/academic-work">Academic Work (labs, policy creation, Python, Java, etc.)</a>
 <li><a href="https://github.com/nt671/letsdefend">letsdefend.io SOC Analyst Training</a></li>
 <li><a href="https://www.credly.com/users/nt671" target="_blank">Certifications and Badges (CTRL+click)</a></li>
 <li><a href="">Home Lab Documentation (coming soon!)</a></li>
