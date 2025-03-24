@@ -23,19 +23,7 @@
 </ul>
 
   
-</ul>
 
-<h3>👯 <strong>I’m looking to collaborate on:</strong></h3>
-<ul>
-  <li><strong>Open-source security projects</strong> that focus on vulnerability management and/or incident response.</li>
-  <li><strong>Automation scripts</strong> for security monitoring and remediation.</li>
-</ul>
-
-<h3>🤝 <strong>I’m looking for help with:</strong></h3>
-<ul>
-  <li>Best practices in <strong>cloud security</strong> (AWS & Azure) and infrastructure hardening.</li>
-  <li>Advanced <strong>SIEM use cases</strong> and log correlation techniques.</li>
-</ul>
 
 <h3>🌱 <strong>I’m currently learning:</strong></h3>
 <ul>
