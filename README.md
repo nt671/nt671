@@ -10,7 +10,7 @@
 <li><a href="https://github.com/nt671/academic-work">Academic Work (labs, policy creation, Python, Java, etc.)</a>
 <li><a href="https://github.com/nt671/letsdefend">letsdefend.io Security Audit and Testing | SOC Analyst Training </a></li>
 <li><a href="https://www.credly.com/users/nt671" target="_blank">Certifications and Badges (CTRL+click)</a></li>
-<li><a href="https://github.com/nt671/tryhackme">Tryhackme.com Governance & Regulation and ISO27001(CTRL+click)</a></li>
+<li><a href="https://github.com/nt671/tryhackme">Tryhackme.com Governance & Regulation and ISO27001</a></li>
 <!--<li><a href="">Home Lab Documentation (coming soon!)</a></li>
 <li><a href="">Google Cybersecurity Certificate Write-ups (coming soon!)</a></li><--!>
 
