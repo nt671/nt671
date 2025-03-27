@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm Nolan! Thanks for visiting! </h1>
+<h1> Hi! ▫️ Håfa adai! ▫️ Aloha! ▫️ こんにちは! <br> I'm Nolan! Thanks for visiting! </h1>
 
 <h2>🤓 Tech-Geek | Cybersecurity Enthusiast | Database & Systems Administrator </h2>
 
