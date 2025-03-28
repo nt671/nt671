@@ -1,6 +1,6 @@
 <h1> Hi! ▫️ Håfa adai! ▫️ Aloha! ▫️ こんにちは! <br> I'm Nolan! Thanks for visiting! </h1>
 
-<h2>🤓 Tech-Geek | Cybersecurity Enthusiast | Database & Systems Administrator </h2>
+<h2>🤓 Tech-Geek 🔹 Cybersecurity Enthusiast 🔹 Database & Systems Administrator </h2>
 
 <p>I'm an IT professional obsessed with practically all things tech (especially cybersecurity) and have worked roles in both database and systems administration. I have a passion for learning and love to research, analyze, and find the best approach to solving problems. Having graduated recently with a BS in InfoSec and Cybersecurity, I've improved my skill set in securing IT infrastructures, mitigating vulnerabilities, and ensuring compliance with security standards. With over 12 years working in the industry along with my education in IT and cybersecurity, I'm driven to create solutions that strengthen security and ultimately improve an organization's overall operational efficiency.</p>
 
